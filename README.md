@@ -58,7 +58,7 @@ This project analyzes customer churn behavior using SQL Server and Power BI. The
 
 ### 🧾 Summary Dashboard
 
-![Summary Dashboard](https://github.com/sitinursalamah/Customer-Churn-Dashboard/blob/main/Images/Summary.png)
+![Summary Dashboard](https://github.com/sitinursalamah/Customer-Churn-Analysis-/blob/main/Images/Summary.png)
 
 
 ## 🧮 Power BI Measures
