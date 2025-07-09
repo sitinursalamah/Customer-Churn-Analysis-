@@ -16,10 +16,10 @@ This project analyzes customer churn behavior using SQL Server and Power BI. The
 * Build a complete **ETL pipeline** to clean and transform raw customer data
 * Visualize and analyze customer churn across:
 
-  * **Demographic** attributes (gender, age group, marital status)
+  * **Demographic** attributes (gender, age group)
   * **Geographic** attributes (state-level churn rates)
   * **Account & payment** info (tenure, payment method, contract type)
-  * **Services** used (internet type, premium features)
+  * **Services** used (internet type)
 * Identify **churn profiles** and provide **actionable insights** for marketing campaigns
 
 ---
