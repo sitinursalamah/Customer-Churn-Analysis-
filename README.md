@@ -1,7 +1,3 @@
-Berikut contoh `README.md` yang terstruktur dan profesional untuk proyek **Customer Churn Analysis**, mengikuti gaya `Pizza Sales Dashboard`:
-
----
-
 # 📉 Customer Churn Analysis Dashboard
 
 This project analyzes customer churn behavior using SQL Server and Power BI. The dataset contains **6,000+ customer records** with demographic, geographic, account, and service information. The goal is to identify churn patterns and build a dashboard that supports **targeted retention strategies** and marketing decisions.
